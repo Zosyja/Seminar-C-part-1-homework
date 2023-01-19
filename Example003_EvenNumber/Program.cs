@@ -1,4 +1,5 @@
-﻿Console.Write("Enter a number: ");
+﻿// Выяснить является ли число чётным
+Console.Write("Enter a number: ");
 int x = int.Parse(Console.ReadLine());
 int r = x%2; //остаток от деления на 2
 

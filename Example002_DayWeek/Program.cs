@@ -1,4 +1,5 @@
-﻿Console.Write("Enter number day of week (from 1 to 7): ");
+﻿// По заданному номеру дня недели вывести его название
+Console.Write("Enter number day of week (from 1 to 7): ");
 int x = int.Parse(Console.ReadLine());
 
 if (x==1)
